@@ -1,4 +1,4 @@
-// exo 3 (pyramide)
+// 2.2.2
 let user = prompt("Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?")
 espace = user - 1 
 

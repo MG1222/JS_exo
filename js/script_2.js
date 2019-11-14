@@ -1,4 +1,4 @@
-// exo 2 
+// exo 2.2.1
 let num = prompt("De quel nombre veux-tu calculer la factorielle ?")
 let result = 1 
 for (let counter = 1; counter <= num; counter ++) {

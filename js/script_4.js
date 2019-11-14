@@ -1,9 +1,4 @@
-// exo 4 (omg !!)
-/* Filtre dans cette liste les entrepreneurs qui sont nés dans les années 70 ;
-	Sors une array qui contient le prénom et le nom des entrepreneurs ;
-	Quel âge aurait chaque inventeur aujourd'hui ?
-	Trie les entrepreneurs par ordre alphabétique du nom de famille.
-*/
+// 2.3.1
 const entrepreneurs = [
   { first: 'Steve', last: 'Jobs', year: 1955 },
   { first: 'Oprah', last: 'Winfrey', year: 1954 },
